@@ -2,8 +2,6 @@
 <h3 align="center">AI Specialist | Researcher | Alghoritm | Python Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minaniazizade&label=Profile%20views&color=0e75b6&style=flat" alt="minaniazizade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minaniazizade&theme=radical" alt="minaniazizade" /></a> </p>
-
 - 🔭 I’m currently working on **AI projects...**
 - 🌱 I’m currently learning **Alghoritms , Graph , AI , Machine Learning,etc.**
 - 💬 Ask me about **Math,Alghoritms,proggraming,CS and proggraming championships**
