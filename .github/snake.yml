@@ -1,0 +1,16 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # هر روز ساعت ۰۰:۰۰ UTC اجرا می‌شه
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: minaniazizade
+          outputs: |
+            output/snake.svg
