@@ -51,9 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/snake.svg" alt="Snake animation" />
-### 🐍 Snake Activity Graph
-
 ![Snake animation](https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/snake.svg)
 
 
