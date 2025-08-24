@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **AI projects...**
 - 🌱 I’m currently learning **Alghoritms , Graph , AI , Machine Learning,etc.**
 - 💬 Ask me about **Math,Alghoritms,proggraming,CS and proggraming championships**
-- ⚡ Fun fact **shine**
+- ⚡ Fun fact **.....**
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
@@ -78,7 +78,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minaniazizade/minaniazizade/output/pacman-contribution-graph.svg">
 </picture>
 
