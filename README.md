@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on **AI projects...**
 - 🌱 I’m currently learning **Alghoritms , Graph , AI , Machine Learning,etc.**
-- 💬 Ask me about **Math,Alghoritms,proggraming,CS and proggraming championships**
-- ⚡ Fun fact **.....**
+- 💬 Ask me about **Math,Alghoritms,programing,CS and programing championships**
+- ⚡ fact **.....**
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
