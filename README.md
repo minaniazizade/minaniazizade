@@ -4,7 +4,7 @@
 
 - 🎉 I’m currently working on **AI projects...**
 - 🎊 I’m currently learning **Alghoritms , Graph , AI , Machine Learning,etc.**
-- ✨️Ask me about **Math,Alghoritms,programing,CS and programing championships**
+- ✨️Ask me about **Math,Alghoritms,proggraming,CS and proggraming championships**
 - 🎖fact **.....**
 
 <div align="center">
