@@ -5,7 +5,7 @@
 - 🎉 I’m currently working on **AI projects...**
 - 🎊 I’m currently learning **Algorithms , Graph , AI , Machine Learning,etc.**
 - ✨️Ask me about **Math,Algorithms,programming,CS and programming championships**
-- 🎖fact : Dreams don't wait, and neither do I ...
+- 🎖fact : Dreams don't wait, and neither do I ....
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
