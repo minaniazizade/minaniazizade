@@ -1,10 +1,10 @@
 <h1 align="center">Hi 🌸, I'm Mina</h1>
-<h3 align="center">AI Specialist | Researcher | Alghoritm | Python Developer</h3>
+<h3 align="center">AI Specialist | Researcher | Algorithm | Python Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minaniazizade&label=Profile%20views&color=0e75b6&style=flat" alt="minaniazizade" /> </p>
 
 - 🎉 I’m currently working on **AI projects...**
-- 🎊 I’m currently learning **Alghoritms , Graph , AI , Machine Learning,etc.**
-- ✨️Ask me about **Math,Alghoritms,programming,CS and programming championships**
+- 🎊 I’m currently learning **Algorithms , Graph , AI , Machine Learning,etc.**
+- ✨️Ask me about **Math,Algorithms,programming,CS and programming championships**
 - 🎖fact : Dreams don't wait, and neither do I ...
 
 <div align="center">
